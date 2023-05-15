@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.15">
+	<Item id="a7b34714-9108-45e5-994c-a5e86012db62">
+		<Name>ДолларСША</Name>
+		<Code>840</Code>
+		<Description>Доллар США</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="61c3e80e-42c8-4354-ba10-398b4de2dae7">
+		<Name>Евро</Name>
+		<Code>978</Code>
+		<Description>Евро</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6cd74fb5-b9a2-4ff0-9fb6-31dd453d9b7d">
+		<Name>РоссийскийРубль</Name>
+		<Code>643</Code>
+		<Description>Российский рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
