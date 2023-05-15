@@ -81,8 +81,8 @@
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="76ab0cb8-9b15-4326-95f9-defa01015422.a" configVersion="53b1a875f5a1e046bec5a88f3528716500000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="76ab0cb8-9b15-4326-95f9-defa01015422.6" configVersion="81bfd8553bba364eaae69e9e9393244b00000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаИзCVS" id="61e30c1d-efdc-48ff-901b-d5680528c9e3" configVersion="9386e6df7407fd4abe204f0e6575a0f900000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаИзCVS.Form.Форма" id="66197d38-8be0-48ae-b371-8f05ea18936a" configVersion="8241f11b1687624787223c8e1dcfe1e800000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаИзCVS.Form.Форма.Form" id="66197d38-8be0-48ae-b371-8f05ea18936a.0" configVersion="a977b23d653162469f2a6e877d4de2bb00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзCVS.Form.Форма" id="66197d38-8be0-48ae-b371-8f05ea18936a" configVersion="e0f7210bc730c6469dc389a47f8239d900000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзCVS.Form.Форма.Form" id="66197d38-8be0-48ae-b371-8f05ea18936a.0" configVersion="0626593c0793c84b88038e1585994e7000000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика" id="966b1e17-6e2a-45db-81c2-147fd27c879c" configVersion="3b94c6543f878441b048801b0321c92000000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика.Form.Форма" id="fa28445b-b42e-469b-9fc2-bd2417bfaeff" configVersion="46fe28886384e74585f268128fc3307500000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика.Form.Форма.Form" id="fa28445b-b42e-469b-9fc2-bd2417bfaeff.0" configVersion="9a9a3289730930468e89db6b710ad26700000000"/>
